@@ -1,16 +1,14 @@
-## Hi there 👋
+Привет! 👋 Я коровин данила
 
-<!--
-**dnkwnn/dnkwnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Обо мне
+- 🎓 Студент Колледжа информационных технологий
+- 🌍 Город: Москва
+- 💻 Изучаю: Git, GitHub, HTML, CSS
+- 🎯 Цель: стать junior-разработчиком
 
-Here are some ideas to get you started:
+## Мои проекты
+- Проект 1 – учебный репозиторий
+- Проект 2 – практика по Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Контакты
+- 📧 Email: danil.korovin.2021@bk.ru
